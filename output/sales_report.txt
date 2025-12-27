@@ -1,0 +1,10 @@
+SALES ANALYTICS REPORT
+========================================
+Generated: 2025-12-27 17:59:10.591861
+Total Revenue: INR 115,200.00
+
+REGION SALES
+North: INR 95,000.00
+South: INR 3,700.00
+East: INR 4,500.00
+West: INR 12,000.00
