@@ -1,5 +1,5 @@
 
-# Sales Analytics System (FINAL – Encoding Safe)
+# Sales Analytics System 
 
 ## How to Run
 pip install -r requirements.txt
